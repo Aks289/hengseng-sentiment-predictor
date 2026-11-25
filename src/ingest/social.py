@@ -19,7 +19,7 @@ RAW_DIR = Path("data/raw")
 
 
 def fill(obj, values):
-    """Replace {name}, {code}, {ticker}, {aliases} placeholders in the input."""
+
     if obj == "{aliases}":
         return values["aliases"]
     if isinstance(obj, str):
