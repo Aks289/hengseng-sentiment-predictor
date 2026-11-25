@@ -1,0 +1,744 @@
+exchange,ticker,source,timestamp_utc,text,likes,replies,views,url,sentiment,weight,local_date
+HKEX,0005.HK,lihkg,2026-11-25 04:23:20+00:00,<聞到燒燶味> 滙豐止蝕沽出甲骨文數據中心貸款,4.0,6.0,,https://lihkg.com/thread/4184487/page/1,-1.0,3.3978952727983707,2026-11-25
+HKEX,0005.HK,lihkg,2026-11-23 03:08:08+00:00,【黃仁勳出軌】傳滙豐香港查黃樂背景、揭履歷存疑　曾繞過HR獲聘,76.0,136.0,,https://lihkg.com/thread/4183663/page/1,0.0,6.3612921657094255,2026-11-23
+HKEX,0005.HK,lihkg,2026-11-19 13:58:20+00:00,"中環滙豐銀行67歲菲律賓婆要求轉帳$39,000,000,000被捕",48.0,65.0,,https://lihkg.com/thread/4182420/page/1,0.0,5.736198448394496,2026-11-19
+HKEX,0005.HK,lihkg,2026-11-18 05:27:18+00:00,52歲姓邢男子及53歲姓金的女子   赴滙豐總行圖開戶　出示2000億元月結單　職員感可疑報警,42.0,60.0,,https://lihkg.com/thread/4181848/page/1,0.0,5.634728988229636,2026-11-18
+HKEX,0005.HK,lihkg,2026-11-18 11:41:03+00:00,信報：金管局容許滙豐「分拆」業務予星  連滙豐都要去新加坡「棄港赴星」,9.0,9.0,,https://lihkg.com/thread/4181954/page/1,0.0,3.9444389791664403,2026-11-18
+HKEX,0005.HK,lihkg,2026-11-18 00:46:27+00:00,突發！8折收數！彭博報道滙豐銀行急止蝕數據中心相關貸款 損失逾3億5千萬！,6.0,4.0,,https://lihkg.com/thread/4181761/page/1,0.0,3.3978952727983707,2026-11-18
+HKEX,0005.HK,lihkg,2026-11-15 14:32:20+00:00,滙豐當年$28供股，今日$150大把人買,5.0,13.0,,https://lihkg.com/thread/4180868/page/1,0.0,3.9444389791664403,2026-11-15
+HKEX,0005.HK,lihkg,2026-11-17 11:34:58+00:00,嘩 匯豐係咪on9 又做蝕本生意 85折賣貸款,4.0,5.0,,https://lihkg.com/thread/4181583/page/1,0.0,3.302585092994046,2026-11-17
+HKEX,0700.HK,lihkg,2026-11-20 05:29:54+00:00,特朗普政府半年核准「近88萬顆AI晶片」輸入中國！　騰訊、百度都入列,3.0,14.0,,https://lihkg.com/thread/4182636/page/1,0.0,3.8903717578961645,2026-11-20
+HKEX,0700.HK,lihkg,2026-10-21 07:08:34+00:00,騰訊低見396蚊,7.0,36.0,,https://lihkg.com/thread/4170688/page/1,-1.0,4.7841896339182615,2026-10-21
+HKEX,0700.HK,lihkg,2026-11-15 15:10:44+00:00,馬化騰內部訓話流出　騰訊一半人像「陸軍」守核心業務；另一半人像「海軍」，探索AI新戰場,1.0,4.0,,https://lihkg.com/thread/4180878/page/1,0.0,2.791759469228055,2026-11-15
+HKEX,0700.HK,lihkg,2026-11-16 05:36:11+00:00,騰訊據報「半數兵力」部署AI業務 馬化騰:行業進入大航海時代,1.0,6.0,,https://lihkg.com/thread/4181061/page/1,0.0,3.0794415416798357,2026-11-16
+HKEX,1810.HK,lihkg,2026-11-23 12:02:06+00:00,「無人機強國」中國太陽能無人機「輕騎兵」首飛成功 升限7000米續航最長30小時,0.0,1.0,,https://lihkg.com/thread/4183851/page/1,1.0,1.6931471805599454,2026-11-23
+HKEX,1810.HK,lihkg,2026-11-21 09:33:01+00:00,邊個國產手機品牌性價比最高：榮耀，VIV/OPPO，小米,1.0,31.0,,https://lihkg.com/thread/4183079/page/1,0.0,4.49650756146648,2026-11-21
+HKEX,1810.HK,lihkg,2026-11-18 04:26:56+00:00,小米部18咁撚反智？,3.0,31.0,,https://lihkg.com/thread/4181827/page/1,0.0,4.555348061489413,2026-11-18
+HKEX,1810.HK,lihkg,2026-11-18 03:33:56+00:00,雷軍發言緊張意外成熱搜 小米回應「這麼大的國際場合，緊張太正常」,1.0,4.0,,https://lihkg.com/thread/4181817/page/1,0.0,2.791759469228055,2026-11-18
+HKEX,3690.HK,lihkg,2026-11-20 23:11:16+00:00,美國制裁柬緬詐騙集團,10.0,11.0,,https://lihkg.com/thread/4182901/page/1,0.0,4.091042453358316,2026-11-21
+HKEX,9988.HK,lihkg,2026-11-16 01:39:16+00:00,阿里巴巴～讓你一起開心笑,11.0,25.0,,https://lihkg.com/thread/4180983/page/1,0.0,4.610917912644224,2026-11-16
+HKEX,9988.HK,lihkg,2026-11-19 01:32:46+00:00,4年前就牽線！　外媒爆輝達「引介黃樂」搭上阿里巴巴　繞過晶片禁令,0.0,4.0,,https://lihkg.com/thread/4182148/page/1,0.0,2.6094379124341005,2026-11-19
+HKEX,0700.HK,exa_news,2026-11-19 03:08:08+00:00,"Tencent shares hit 2-1/2 yr low on Q3 earnings miss By Investing.com Tencent shares hit 2-1/2 yr low on Q3 earnings miss By Investing.com
+
+# Tencent shares hit 2-1/2 yr low on Q3 earnings miss
+
+Author Ayushman Ojha
+
+Published 19/11/2026, 03:08
+
+Tencent shares hit 2-1/2 yr low on Q3 earnings miss
+
+© Reuters.
+
+0700-0.70%
+
+Investing.com-- Tencent Holdings (HK:0700) shares fell on Thursday after the Chinese technology giant reported weaker-than-expected third-quarter earnings, raising concerns over the costs of its artificial intelligence expansion.
+
+The Hong Kong-listed stock dropped 6.1% to HK$350 by 02:58 GMT, reaching its lowest since May 2024.
+
+Results on Wednesday showed that revenue rose 8% year-on-year to 207.3 billion yuan ($31.1 billion) in the three months ended September, below the 210.8 billion yuan expected by analysts, according to LSEG data.
+
+No",,,,https://uk.investing.com/news/stock-market-news/tencent-shares-hit-212-yr-low-on-q3-earnings-miss-4992134,-1.0,1.0,2026-11-19
+HKEX,0700.HK,exa_news,2026-11-18 09:28:44+00:00,"Tencent says new US chip curbs won’t hurt cloud revenue, may slow model training By Reuters Tencent says new US chip curbs won’t hurt cloud revenue, may slow model training By Reuters
+
+# Tencent says new US chip curbs won’t hurt cloud revenue, may slow model training
+
+By
+
+Published Nov 18, 2026, 04:28 AM
+
+Updated Nov 18, 2026, 08:36 AM
+
+© Reuters. FILE PHOTO: A logo of Tencent at an exhibition center during organized media tour in Hohhot, Inner Mongolia Autonomous Region, China, June 11, 2026. REUTERS/Maxim Shemetov/File Photo
+
+0700-0.76%
+
+BEIJING, Nov 18 (Reuters) - China’s Tencent Holdings said on Wednesday that new US restrictions on remote access to advanced AI chips would not substantially hurt its cloud revenue, though they would likely slow development of its next AI model.
+
+Washington this week unveiled rules restricting remote access to advanced US AI chips through overs",,,,https://www.investing.com/news/stock-market-news/tencent-quarterly-revenue-growth-slows-cloud-unit-benefits-from-ai-demand-5035220,0.0,1.0,2026-11-18
+HKEX,0700.HK,exa_news,2026-11-18 12:59:00+00:00,"TENCENT ANNOUNCES 2026 THIRD QUARTER RESULTS TENCENT ANNOUNCES 2026 THIRD QUARTER RESULTS
+
+# TENCENT ANNOUNCES 2026 THIRD QUARTER RESULTS
+
+ Tencent Holdings Limited 
+
+18 Nov, 2026, 20:59 CST
+
+Advancing across Models and Applications Accelerating Evolution for the New AI Era
+
+Hong Kong, Nov. 18, 2026 /PRNewswire/ -- Tencent Holdings Limited (HKEX: 00700 (HKD Counter) and 80700 (RMB Counter), ""Tencent"" or ""the Company""), a world-leading Internet and technology company in China, today announced the unaudited consolidated results for the quarter ended 30 September 2026 (""3Q2026"").
+
+Mr. Ma Huateng, Chairman and CEO of Tencent, said, ""Our recent significant achievements across models and applications have accelerated Tencent's evolution for the new AI era. Hy4 has achieved China state-of-the-art AI model status, and Hy4 flash brings down i",,,,https://www.prnewswire.com/apac/news-releases/tencent-announces-2026-third-quarter-results-302943839.html,0.0,1.0,2026-11-18
+HKEX,0700.HK,exa_news,2026-11-18 09:49:49+00:00,"Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run | South China Morning Post Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run | South China Morning Post
+
+# Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run
+
+Profit dipped while capital expenditure jumped 527 per cent during the quarter as the company expanded its computing capacity
+
+Iris Deng in Shenzhen
+
+Published: 5:49pm, 18 Nov 2026 Updated: 8:51am, 19 Nov 2026
+
+Tencent Holdings ramped up capital spending more than sixfold in the third quarter to above US$12 billion, weighing on profit and free cash flow as the Chinese tech giant poured money into computing power to catch up in the country’s cutthroat artificial intelligence race.
+
+Adjusted net income for the three months ended September 30 fell 6 per cent year on year to 66.5 billion yuan (US$10 billion)",,,,https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin,0.0,1.0,2026-11-18
+HKEX,0700.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - Hong Kong Stock Movement | Tencent (00700.HK) Rises Over 5%, AI Assistant Muse Validates Consumer-Grade Agent, Institutions Bullish on ""Xiaowei"" Ecosystem Moat GMT EIGHT - Latest - Hong Kong Stock Movement | Tencent (00700.HK) Rises Over 5%, AI Assistant Muse Validates Consumer-Grade Agent, Institutions Bullish on ""Xiaowei"" Ecosystem Moat
+
+# Hong Kong Stock Movement | Tencent (00700.HK) Rises Over 5%, AI Assistant Muse Validates Consumer-Grade Agent, Institutions Bullish on ""Xiaowei"" Ecosystem Moat
+
+25/11/2026
+
+Zhitong Finance APP has learned that Tencent (00700.HK) rose more than 5%, as of press time, up 5.49%, at HK$453.6, with a turnover of HK$7.907 billion.
+
+Contact US
+
++852 - 60190728
+
+[email protected]",,,,https://www.gmt8press.com/flash/detail/1527326,1.0,1.0,2026-11-25
+HKEX,0005.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - Hong Kong Stock Movement | HSBC Holdings (00005.HK) Falls Over 5% in Afternoon Session; Q3 Reported Pre-Tax Profit Up 32%, Slightly Below Expectations GMT EIGHT - Latest - Hong Kong Stock Movement | HSBC Holdings (00005.HK) Falls Over 5% in Afternoon Session; Q3 Reported Pre-Tax Profit Up 32%, Slightly Below Expectations
+
+# Hong Kong Stock Movement | HSBC Holdings (00005.HK) Falls Over 5% in Afternoon Session; Q3 Reported Pre-Tax Profit Up 32%, Slightly Below Expectations
+
+25/11/2026
+
+Zhitong Finance APP has learned that HSBC Holdings (00005.HK) plunged in the afternoon session, with its share price hitting a new low since June this year. As of press time, it was down 5.06% at HK$135, with a turnover of HK$2.145 billion.
+
+Contact US
+
++852 - 60190728
+
+gmteight@futurecultural.com",,,,https://gmteight.com/flash/detail/1576101,-1.0,1.0,2026-11-25
+HKEX,0005.HK,exa_news,2026-11-24 00:00:00+00:00,"HSBC posts Q3 profit of $5.1 bln, confirms forex probe HSBC posts Q3 profit of $5.1 bln, confirms forex probe
+
+Wednesday 25 Nov 2026
+
+* Q3 profits $5.1 billion helped by lower costs, impairments * CEO gives positive outlook, sees broadening recovery * HSBC says has not suspended any traders in FX probe * Better capital ratios, warns of regulatory uncertainty * Shares up 2 pct
+
+LONDON (Nov 4): HSBC reported a 10 percent rise in third quarter profits on Monday — helped by tighter cost control and fewer losses from bad loans, and confirmed it was being investigated as part of a global probe into currency market trading manipulation.
+
+Europe's largest bank said underlying pretax profit was $5.1 billion for the three months to Sept 30 — up 30 percent on a statutory basis — with strong Hong Kong and British markets together accounting for more than ",,,,https://theedgemalaysia.com/article/hsbc-posts-q3-profit-51-bln-confirms-forex-probe,-0.6666666666666666,1.0,2026-11-24
+HKEX,0005.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - HSBC Holdings' third-quarter profit slightly below estimates; announces share buyback of up to $1 billion GMT EIGHT - Latest - HSBC Holdings' third-quarter profit slightly below estimates; announces share buyback of up to $1 billion
+
+# HSBC Holdings' third-quarter profit slightly below estimates; announces share buyback of up to $1 billion
+
+25/11/2026
+
+HSBC Holdings' third-quarter earnings slightly missed estimates, and it announced a share buyback of up to $1 billion. HSBC announced a share buyback for the second consecutive quarter. Previously, HSBC suspended its earlier share buyback plan due to the $14 billion acquisition of Hang Seng Bank. HSBC's third-quarter pre-tax profit was $9.6 billion, slightly below the $9.7 billion estimate, mainly due to rising interest rates. HSBC Group Chief Executive Georges Elhedery said in a statement: ""Our performance shows that in a more complex world, cu",,,,https://gmteight.com/flash/detail/1576039,0.7142857142857143,1.0,2026-11-25
+HKEX,0005.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - Goldman Sachs: Adjusts HSBC Holdings (00005.HK) target price to HK$192, maintains ""Buy"" rating, expects slower growth in non-banking net interest income in the third quarter. GMT EIGHT - Latest - Goldman Sachs: Adjusts HSBC Holdings (00005.HK) target price to HK$192, maintains ""Buy"" rating, expects slower growth in non-banking net interest income in the third quarter.
+
+# Goldman Sachs: Adjusts HSBC Holdings (00005.HK) target price to HK$192, maintains ""Buy"" rating, expects slower growth in non-banking net interest income in the third quarter.
+
+25/11/2026
+
+Zhitong Finance APP has learned that Goldman Sachs issued a research report stating that it has adjusted the target price of HSBC Holdings (00005.HK) to HK$192 and maintained a ""Buy"" rating. The bank expects HSBC Holdings' third-quarter core pre-tax profit to be US$10.4 billion, 2% higher than market expectations, but after a strong performance in the second quarter, growth in non-banking net interest income i",,,,https://gmteight.com/flash/detail/1550885,1.0,1.0,2026-11-25
+HKEX,0005.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - UBS: Cuts target prices for HSBC Holdings (00005.HK) and Standard Chartered (02888.HK), maintains ""Neutral"" rating. GMT EIGHT - Latest - UBS: Cuts target prices for HSBC Holdings (00005.HK) and Standard Chartered (02888.HK), maintains ""Neutral"" rating.
+
+# UBS: Cuts target prices for HSBC Holdings (00005.HK) and Standard Chartered (02888.HK), maintains ""Neutral"" rating.
+
+25/11/2026
+
+Zhitong Finance APP has learned that UBS released a research report stating that UK banks are facing narrowing interest rate spreads and potential tax increase pressures, but benefiting from accelerated loan growth, regulatory easing, and attractive valuations, the firm maintains a ""Neutral"" rating on HSBC Holdings (00005.HK) and Standard Chartered Group (02888), with the target price for HSBC Holdings lowered from HK$170.8 to HK$157 and the target price for Standard Chartered Group lowered from HK$239.1 to HK$228.
+
+Contact U",,,,https://gmteight.com/flash/detail/1574063,1.0,1.0,2026-11-25
+HKEX,9988.HK,exa_news,2026-11-24 06:01:35+00:00,"BABA Stock Drops Overnight: Alibaba Reportedly Refutes Chip Rerouting Claims After US Blacklists Subsidiary BABA Stock Drops Overnight: Alibaba Reportedly Refutes Chip Rerouting Claims After US Blacklists Subsidiary
+# BABA Stock Drops Overnight: Alibaba Reportedly Refutes Chip Rerouting Claims After US Blacklists Subsidiary
+Shivani Kumaresan Tue, November 24, 2026 at 1:01 AM EST 3 min read
+The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+* Alibaba has denied that Apex Enterprise Solutions shipped restricted AI chips to China.
+* Apex was blacklisted due to its financial links to Megaspeed.
+* Susquehanna lowered Alibaba's price target citing potential cloud growth slowdo",,,,https://finance.yahoo.com/markets/stocks/articles/baba-stock-drops-overnight-alibaba-060135257.html,-0.5,1.0,2026-11-24
+HKEX,9988.HK,exa_news,2026-11-24 00:00:00+00:00,"Alibaba Group (NYSE:BABA) Stock Falls 1.4% - Here's Why Skip to main content
+
+Black Friday:60% Off + Free Until2027
+
+Claim Free Access
+
+Claim MarketBeat All Access Sale Promotion
+
+✖
+
+# Alibaba Group (NYSE:BABA) Stock Falls 1.4% - Here's Why
+
+Written by MarketBeat
+
+November 24, 2026
+
+Add As Preferred Source
+
+Share
+
+Share
+
+Share This Article
+
+Share on Facebook Share on Twitter Share on LinkedIn Share on StockTwits Print this page Email this page Copy the URL of this page to the clipboard
+
+Link copied to clipboard.
+
+Close
+
+Image from MarketBeat Media, LLC.
+
+## Key Points
+
+- Alibaba shares fell 1.4% to about $84.80 amid reports that the U.S. added a Singapore subsidiary to its Entity List over alleged AI-chip diversion, raising export-control and reputational risks.
+- Alibaba’s latest quarterly earnings per share of $1.21 missed the $1.71 consensus",,,,https://www.marketbeat.com/instant-alerts/price-alibaba-group-nyse-baba-stock-falls-14-heres-why-2026-11-24/,0.0,1.0,2026-11-24
+HKEX,9988.HK,exa_news,2026-11-24 10:46:00+00:00,"Alibaba ($BABA) 7% Stock Drop Leads to Securities Fraud Class ... BABA Stock Drop Notice: Alibaba ($BABA) 7% Stock Drop Leads to Securities Fraud Class Action on behalf of Investors - January 19 Court Deadline is Imminent
+
+# BABA Stock Drop Notice: Alibaba ($BABA) 7% Stock Drop Leads to Securities Fraud Class Action on behalf of Investors - January 19 Court Deadline is Imminent
+
+ Bleichmar Fonti & Auld LLP 
+
+Nov 24, 2026, 05:46 ET
+
+Alibaba has been sued for securities fraud after its stock plummeted 7.1% because Alibaba allegedly misrepresented the risks associated with export control violations due to the company's ongoing relationship with Megaspeed.
+
+NEW YORK, Nov. 24, 2026 /PRNewswire/ -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a class action lawsuit has been filed against Alibaba Group Holdings Limited (NYSE: BABA) for ",,,,https://www.prnewswire.com/news-releases/baba-stock-drop-notice-alibaba-baba-7-stock-drop-leads-to-securities-fraud-class-action-on-behalf-of-investors--january-19-court-deadline-is-imminent-302947890.html,-0.6666666666666666,1.0,2026-11-24
+HKEX,9988.HK,exa_news,2026-11-23 17:15:34+00:00,"Shareholders Are Suing Alibaba Over Its Ties to Megaspeed. What That ... Shareholders Are Suing Alibaba Over Its Ties to Megaspeed. What That Means for BABA Stock.
+# Shareholders Are Suing Alibaba Over Its Ties to Megaspeed. What That Means for BABA Stock.
+Pathikrit Bose Mon, November 23, 2026 at 12:15 PM EST 6 min read
+The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational.
+Alibaba by testing via Shutterstock
+Shareholders of Chinese e-commerce and increasingly AI giant Alibaba (BABA) have reportedly filed a class action lawsuit against the company in a Manhattan court over hiding its ties to Megaspeed. Megaspeed is the cloud and data center",,,,https://finance.yahoo.com/markets/stocks/articles/shareholders-suing-alibaba-over-ties-171534429.html,1.0,1.0,2026-11-24
+HKEX,9988.HK,exa_news,2026-11-20 12:44:51+00:00,"Tencent, Alibaba pin cloud growth on domestic chips after new U.S. export controls | Fortune Tencent, Alibaba pin cloud growth on domestic chips after new U.S. export controls | Fortune
+
+# Alibaba and Tencent put their faith in Chinese chips as U.S. curbs threatens to slow down their AI development
+
+Jay Ganglani
+
+Jay Ganglani
+
+Jay Ganglani
+
+Jay Ganglani
+
+November 20, 2026, 7:44 AM ET
+
+The orange Alibaba logo is displayed on the sunlit glass facade of the Shenzhen Alibaba Center on November 11, 2026 in Shenzhen, Guangdong Province, China. Cheng Xin—Getty Images
+
+Tencent and Alibaba said this week that domestic chips can cushion their cloud businesses from new U.S. restrictions on access to advanced AI processors, yet acknowledged that they could still slow the development of new AI models. 
+
+Both tech giants reported earnings after the U.S. Department of Commerce released an interi",,,,https://fortune.com/2026/11/20/tencent-alibaba-us-chip-curbs-cloud-ai/,1.0,1.0,2026-11-20
+HKEX,3690.HK,exa_news,2026-11-24 09:01:18+00:00,"Hong Kong shares close lower, Xiaomi and Meituan down over 3pc Hong Kong shares close lower, Xiaomi and Meituan down over 3pc
+
+# Hong Kong shares close lower, Xiaomi and Meituan down over 3pc
+
+FINANCE 20 hours ago
+
+by
+
+Helen Zhong
+
+HKEX.
+
+Hong Kong shares underperformed other Asian markets, which broadly rebounded on Tuesday, as investors judged that Jensen Huang’s comeback would do little to mend US-China ties amid global artificial intelligence competition.
+
+The benchmark Hang Seng Index fell 164 points, or 0.73 percent, to 22,219 points, with a full-day turnover of HK$212.6 billion. 
+
+The Hang Seng Tech Index decreased 1.17 percent to 3,466 points. 
+
+Tech giants delivered mixed performance despite the rally in AI-related shares across global markets. Lenovo jumped 3.7 percent, marking the largest gain among blue chips, while Xiaomi (1810) and Meitu",,,,https://www.thestandard.com.hk/finance/article/349469/Hong-Kong-shares-close-lower-Xiaomi-and-Meituan-down-over-3pc,1.0,1.0,2026-11-24
+HKEX,3690.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - GMT EIGHT - Latest - 
+
+# Lates News
+
+25/11/2026
+
+Morgan Stanley said China's e-commerce industry is losing growth momentum, but the number of competitors has not decreased, and continued competition could erode the ""maturity dividend"" the market had hoped for, leading it to downgrade Meituan (03690) and Pinduoduo to ""Equal-weight."" The Morgan Stanley report noted that China's e-commerce industry is entering a structurally low-growth phase, with platform gross merchandise value expected to grow at a compound annual growth rate of only 3.2% from 2026 to 2030, slowing to 2.6% by 2030. Unlike typical mature industries, China's e-commerce sector shows almost no sign of consolidation, with cash-rich platforms continuing to defend their core businesses while entering competitors' markets. Morgan ",,,,https://gmteight.com/flash/detail/1598545,0.6,1.0,2026-11-25
+HKEX,3690.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - Hong Kong Stock Movement | Meituan-W (03690.HK) rises nearly 5%; company proposes to issue RMB senior notes; Citi expects Q3 results to be broadly in line with market expectations. GMT EIGHT - Latest - Hong Kong Stock Movement | Meituan-W (03690.HK) rises nearly 5%; company proposes to issue RMB senior notes; Citi expects Q3 results to be broadly in line with market expectations.
+
+# Hong Kong Stock Movement | Meituan-W (03690.HK) rises nearly 5%; company proposes to issue RMB senior notes; Citi expects Q3 results to be broadly in line with market expectations.
+
+25/11/2026
+
+Zhitong Finance APP has learned that Meituan-W (03690.HK) rose nearly 5% in the afternoon. As of press time, it was up 3.91% at HK$74.45, with a turnover of HK$1.557 billion.
+
+Contact US
+
++852 - 60190728
+
+gmteight@futurecultural.com",,,,https://gmteight.com/flash/detail/1573888,0.0,1.0,2026-11-25
+HKEX,3690.HK,exa_news,2026-11-25 00:00:00+00:00,"GMT EIGHT - Latest - Citi: Meituan-W (03690.HK) Q3 results expected to be broadly in line with expectations; maintains ""Buy"" rating and HK$120 target price GMT EIGHT - Latest - Citi: Meituan-W (03690.HK) Q3 results expected to be broadly in line with expectations; maintains ""Buy"" rating and HK$120 target price
+
+# Citi: Meituan-W (03690.HK) Q3 results expected to be broadly in line with expectations; maintains ""Buy"" rating and HK$120 target price
+
+25/11/2026
+
+Citi released a research report stating that Meituan-W (03690.HK) is expected to announce its third-quarter results in late November, with overall figures likely broadly in line with the bank's and market expectations. The bank maintained its earnings forecasts for the company, continued to give it a ""Buy"" rating, and kept its target price at HK$120.
+
+Contact US
+
++852 - 60190728
+
+gmteight@futurecultural.com",,,,https://gmteight.com/flash/detail/1573753,1.0,1.0,2026-11-25
+HKEX,3690.HK,exa_news,2026-11-23 00:00:00+00:00,"GMT EIGHT - UBS: Maintains ""Buy"" rating on MEITUAN-W (03690); changes in the in-store competition environment are positive GMT EIGHT - UBS: Maintains ""Buy"" rating on MEITUAN-W (03690); changes in the in-store competition environment are positive
+
+# UBS: Maintains ""Buy"" rating on MEITUAN-W (03690); changes in the in-store competition environment are positive
+
+15:16 23/11/2026
+
+GMT Eight
+
+UBS believes that the more favorable in-store competition environment in mainland China, along with easing competition in instant retail and in-store, is expected to support MEITUAN's profit recovery over the coming years.
+
+UBS issued a research report maintaining a positive view on MEITUAN-W (03690) with a ""Buy"" rating. After hosting an expert conference call and speaking with a former manager of local life services at a Chinese internet platform, the bank believes that Douyin's local life business is placing more emphasis on ",,,,https://www.gmt8press.com/content/detail/455230,1.0,1.0,2026-11-23
+HKEX,1810.HK,exa_news,2026-11-25 04:27:49+00:00,"Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs By Investing.com Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs By Investing.com
+
+# Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs
+
+Author Roushni Nair
+
+Published Nov 24, 2026, 11:27 PM
+
+© Reuters
+
+1810+2.57%
+
+Investing.com -- Xiaomi shares surged more than 8% on Wednesday after its smartphone business performed better than expected in the third quarter, suggesting the Chinese technology group is using higher-priced devices to offset rising memory chip costs.
+
+The stock recorded its biggest daily gain in nearly three weeks after smartphone revenue remained broadly flat in the September quarter, outperforming analyst expectations for a 6% decline. The average selling price of Xiaomi devices climbed nearly 40% to a record, reflecting stronger sales of",,,,https://www.investing.com/news/stock-market-news/xiaomi-shares-jump-over-8-as-premium-phone-sales-cushion-rising-chip-costs-5049681,0.42857142857142855,1.0,2026-11-25
+HKEX,1810.HK,exa_news,2026-11-25 05:04:44+00:00,"Why is Xiaomi stock rallying today? By Investing.com Why is Xiaomi stock rallying today? By Investing.com
+
+# Why is Xiaomi stock rallying today?
+
+Editor Roushni Nair Stock Markets
+
+Editor Roushni Nair
+
+Published Nov 25, 2026, 12:04 AM
+
+Why is Xiaomi stock rallying today?
+
+© Reuters.
+
+Investing.com -- Xiaomi stock rallied 4.1% after the company’s post-close Q3 2026 earnings report revealed that its smartphone business outperformed market expectations, with revenue coming in broadly flat against analyst forecasts for a decline of around 6%, and the average selling price of its devices climbing nearly 40% to a record high - a clear sign that its push into premium handsets is gaining traction against a backdrop of severe memory chip cost inflation.
+
+The rebound was reinforced by several supporting factors. Bernstein analyst Neil Beveridge had re",,,,https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-rallying-today-93CH-5049723,0.45454545454545453,1.0,2026-11-25
+HKEX,1810.HK,exa_news,2026-11-24 14:30:05+00:00,"Xiaomi profits plunge 57% as EV and smartphone headwinds bite | South China Morning Post Xiaomi profits plunge 57% as EV and smartphone headwinds bite | South China Morning Post
+
+# Xiaomi profits plunge 57% as EV and smartphone headwinds bite
+
+The company’s net earnings more than halved in the third quarter amid rising global memory costs and sluggish car sales in China
+
+Published: 10:30pm, 24 Nov 2026 Updated: 12:50am, 25 Nov 2026
+
+Xiaomi’s adjusted net profit more than halved in the third quarter of the year as rising memory costs squeezed its smartphone business and sales of its electric cars weakened, with executives warning that pressure on handset makers would persist into next year.
+
+The Chinese tech giant’s adjusted net profit fell 56.8 per cent to 4.88 billion yuan (US$733 million) in the three months ended September, while revenue declined 5.2 per cent to 107.24 bill",,,,https://www.scmp.com/business/china-business/article/3375663/xiaomi-profits-plunge-57-ev-and-smartphone-headwinds-bite,-1.0,1.0,2026-11-24
+HKEX,1810.HK,exa_news,2026-11-24 09:47:08+00:00,"Xiaomi third-quarter profit falls 57% as smartphone sales hit By Reuters Xiaomi profit falls as China auto downturn weighs, eyes Europe car market By Reuters
+
+# Xiaomi profit falls as China auto downturn weighs, eyes Europe car market 
+
+By
+
+Published Nov 24, 2026, 04:47 AM
+
+Updated Nov 24, 2026, 07:36 AM
+
+© Reuters.
+
+By Ju-min Park
+
+BEIJING, Nov 24 (Reuters) - Chinese electric-vehicle and smartphone maker Xiaomi Corp reported a 57% fall in third-quarter net profit on Tuesday, missing analyst estimates, as a downturn in China’s auto market and higher component costs weighed on earnings.
+
+The Hong Kong-listed company also said it planned to enter Germany’s car market in the second half of 2027 as part of its overseas expansion.
+
+Xiaomi reported adjusted net profit of 4.9 billion yuan ($735.7 million) for July to September, below analysts’ average estimate of 5.2 ",,,,https://www.investing.com/news/stock-market-news/xiaomi-thirdquarter-profit-falls-57-as-smartphone-sales-hit-5047449,-1.0,1.0,2026-11-24
+HKEX,1810.HK,exa_news,2026-11-24 10:07:00+00:00,"Xiaomi Profit Drops Amid Weaker Revenue Across Businesses - MarketWatch Xiaomi Profit Drops Amid Weaker Revenue Across Businesses - MarketWatch
+
+# Xiaomi Profit Drops Amid Weaker Revenue Across Businesses
+
+Nov. 24, 2026, 5:07 a.m. ET
+
+By Jiahui Huang
+
+Xiaomi's third-quarter profit fell sharply on weaker revenue and margins as the Chinese technology company faced a host of challenges--from weaker smartphone demand to a slowing auto market in China.
+
+The Beijing-based company on Tuesday said net profit slumped 68% from a year earlier to 3.88 billion yuan. Revenue declined 5.2% to 107.24 billion yuan.
+
+Analysts had expected net profit of 4.97 billion yuan on revenue of 106.92 billion yuan, according to a Visible Alpha consensus.
+
+Revenue from smartphones, Xiaomi's largest business, fell 0.8% to 46.0 billion yuan. Shipments dropped 20% to 30.7 million units in the",,,,https://www.marketwatch.com/story/xiaomi-profit-drops-amid-weaker-revenue-across-businesses-76611bdd,-1.0,1.0,2026-11-24
+KRX,005930.KS,exa_news,2026-11-25 04:47:51+00:00,"Why is Samsung Electronics stock plunging today? By Investing.com Why is Samsung Electronics stock plunging today? By Investing.com
+
+# Why is Samsung Electronics stock plunging today?
+
+Editor Roushni Nair Stock Markets
+
+Editor Roushni Nair
+
+Published Nov 24, 2026, 11:47 PM
+
+Why is Samsung Electronics stock plunging today?
+
+Investing.com -- Samsung Electronics stock is plunging nearly 9.0% today, hitting ₩172,400, as the dramatic one-day reversal of Wednesday’s AI-chip euphoria sent shockwaves through the Seoul market. The catalyst was a steep overnight sell-off in U.S. semiconductor stocks, which erased the gains that had been ignited just 24 hours earlier by news of Nvidia CEO Jensen Huang’s reinstatement.
+
+The prior session had seen Samsung surge more than 10% as global investors piled into AI-linked chip stocks following Huang’s return to Nvidia’s hel",,,,https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707,0.3333333333333333,1.0,2026-11-25
+KRX,005930.KS,exa_news,2026-11-25 00:52:23+00:00,"Tech stocks fall: Nvidia, SoftBank Group, Advantest, SK Hynix, Samsung Tech stocks fall: Nvidia, SoftBank Group, Advantest, SK Hynix, Samsung
+
+# SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names 
+
+Published Tue, Nov 24 2026 7:52 PM EST Updated 3 Hours Ago
+
+Lee Ying Shan@in/ying-shan-lee@LeeYingshan
+
+Key Points
+
+- Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks.
+- The losses followed an overnight decline in U.S. technology names.
+- Chinese technology stocks listed in Hong Kong bucked the broader regional sell-off.
+
+Lam Research's Dextro collaborative robot for manufacturing. Courtesy: Lam Research
+
+Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattles investors following an overnight sell-",,,,https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html,-1.0,1.0,2026-11-25
+KRX,005930.KS,exa_news,2026-11-25 00:46:32+00:00,"Kospi breaks below 5,000 again as Samsung Electronics, SK hynix give back Tuesday's gains - The Herald Business Kospi breaks below 5,000 again as Samsung Electronics, SK hynix give back Tuesday's gains - The Herald Business
+
+# Kospi breaks below 5,000 again as Samsung Electronics, SK hynix give back Tuesday's gains
+
+by Kim Ji-yun
+
+Published : Nov. 25, 2026 - 09:46:32 
+
+Samsung Electronics, SK hynix surrender Tuesday's gains
+
+Philadelphia Semiconductor Index tumbles 8%
+
+AI overinvestment, regulation fears chill sentiment
+
+Screens at Woori Bank's dealing room in Jung-gu, Seoul, show the Kospi, the won-dollar exchange rate and news of Nvidia CEO Jensen Huang's return on Wednesday morning, as the index tumbled about 4% after surging on the news a day earlier.
+
+The Kospi, which had been falling for several consecutive sessions, surged more than 6% on Tuesday after news broke that Nvidia CEO Jensen Huang ",,,,https://biz.heraldcorp.com/article/10948403,0.7777777777777778,1.0,2026-11-25
+KRX,005930.KS,exa_news,2026-11-25 00:29:11+00:00,"KOSPI Falls More Than 5%, Triggering Sell-Sidecar; Samsung Electronics, SK hynix Down 6% - The Asia Business Daily KOSPI Falls More Than 5%, Triggering Sell-Sidecar; Samsung Electronics, SK hynix Down 6% - The Asia Business Daily
+# KOSPI Falls More Than 5%, Triggering Sell-Sidecar; Samsung Electronics, SK hynix Down 6%
+by *Kim Youngwon*
+Published 25 Nov.2026 09:29(KST)
+## KOSPI sell-sidecar triggered at 9:08 a.m.
+KOSDAQ losses widen to the 3% range
+The KOSPI fell more than 5% in early trading on Nov. 25, triggering a sell-sidecar. The KOSDAQ, which also opened lower, widened its losses to more than 3%.
+At around 9:13 a.m., the KOSPI was trading at 4,752.29 on the Korea Exchange, down 5.07% from the previous session. After opening at 4,809.00, down 3.94%, it fell below the 4,800 mark amid selling by foreign and institutional investors. Individual investors were net buyers of 654.5 billion won, while for",,,,https://view.asiae.co.kr/en/article/market-overview/2026112509291286468,-0.8333333333333334,1.0,2026-11-25
+KRX,005930.KS,exa_news,2026-11-25 01:18:24+00:00,"The top 1% return on stock investment bought the most Samsung ... The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell b.. - MK
+
+changho han
+: han.changho@mk.co.kr
+
+Input : 
+: 2026-11-25 10:18:24
+
+ 사진 확대 
+
+ As of 9:30 on the 25th, the top 10 stocks in net stock purchases [data source = Mirae Asset Securities] 
+
+The top 1% return on stock investment bought the most Samsung Electronics and SK Hynix, which fell by 7% side by side in early trading on the 25th. No. 1 net seller was Celltrion.
+
+According to Mirae Asset Securities, Samsung Electronics was the top net buyer of ultra-high earners as of 9:30 a.m. that day. Samsung Electronics was trading at 175,800 won, down 7.18 percent from the previous day's close. SK hynix, the No. 2 net buyer, fell 7.34 percent to 1,073,000 won, and LG Electronics, the No. 3 playe",,,,https://www.mk.co.kr/en/stock/12217831,0.3333333333333333,1.0,2026-11-25
+KRX,000660.KS,exa_news,2026-11-25 04:48:14+00:00,"Why is SK Hynix stock tumbling today? By Investing.com Why is SK Hynix stock tumbling today? By Investing.com
+
+# Why is SK Hynix stock tumbling today?
+
+Editor Roushni Nair Stock Markets
+
+Editor Roushni Nair
+
+Published Nov 24, 2026, 11:48 PM
+
+Why is SK Hynix stock tumbling today?
+
+Investing.com -- SK Hynix shares fell 9.0% to trade at ₩1,054,000 during today’s session, erasing the bulk of Tuesday’s sharp advance as a wave of profit-taking and renewed anxiety over the sustainability of the AI investment cycle swept through global semiconductor markets. The catalyst was a decisive pullback in U.S. chip stocks overnight, led by Nvidia, which surrendered a meaningful portion of its historic prior-day surge, and Micron, which fell 11.01%, signaling that the market’s confidence in the Jensen Huang-driven rally had faded within a single trading sessio",,,,https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708,1.0,1.0,2026-11-25
+KRX,000660.KS,exa_news,2026-11-25 01:16:15+00:00,"'Jensen Huang effect' fades fast: Samsung, SK hynix tumble nearly 7% - The Herald Business 'Jensen Huang effect' fades fast: Samsung, SK hynix tumble nearly 7% - The Herald Business
+
+# 'Jensen Huang effect' fades fast: Samsung, SK hynix tumble nearly 7%
+
+by Kim Ji-yun
+
+Published : Nov. 25, 2026 - 10:16:15 
+
+Semiconductor index plunges 8%, rattling domestic markets
+
+Foreign investors have dumped 190 trillion won in Samsung, SK hynix shares this year
+
+Analysts say selloff driven by supply-demand factors, not earnings doubts
+
+The Kospi, the won-dollar exchange rate and news of Nvidia CEO Jensen Huang's return are displayed at Woori Bank's dealing room in Jung-gu, Seoul, on Wednesday. (Yun Chang-bin)
+
+Samsung Electronics and SK hynix, which surged Tuesday on news of Nvidia CEO Jensen Huang's return, tumbled sharply in early trading Wednesday.
+
+By 9:50 a.m., Samsung Electronics had f",,,,https://biz.heraldcorp.com/article/10948495,-0.3333333333333333,1.0,2026-11-25
+KRX,000660.KS,exa_news,2026-11-25 03:55:53+00:00,"SK Hynix Highs Continue to Decline Toward Recent Lows as Key $100 ... SK Hynix Highs Continue to Decline Toward Recent Lows as Key $100 Support Faces Test
+
+# SK Hynix Highs Continue to Decline Toward Recent Lows as Key $100 Support Faces Test
+
+TradingKey
+
+Author Yulia Zeng
+
+Nov 25, 2026 3:55 AM
+
+02:38
+
+SK Hynix shares plunged 9.9% amid a broader downward trend. Goldman Sachs maintained a ""Buy"" rating while slashing the target price by 43% to 2.0 million won, driven by concerns over a 2028 supply-demand rebalance and projected drops in DRAM and NAND prices. Despite long-term capacity being largely locked in through 2029 and strategic expansion in Kioxia, technical indicators suggest potential further downside toward the $90–$95 support zone if the stock decisively breaks below $100, with any near-term recovery classified as an oversold rebound rather than a t",,,,https://www.tradingkey.com/analysis/stocks/us-stocks/262321149-sk-hynix-prints-lower-highs-nears-recent-lows-key-100-support-faces-test-skhy-tradingkey,-0.6666666666666666,1.0,2026-11-25
+KRX,000660.KS,exa_news,2026-11-25 05:11:15+00:00,"SK Hynix (NasdaqGS:SKHY) Stock May Trade At A Discount Despite AI ... SK Hynix (NasdaqGS:SKHY) Stock May Trade At A Discount Despite AI Demand News
+
+# SK Hynix (NasdaqGS:SKHY) Stock May Trade At A Discount Despite AI Demand News
+
+ Mitch Lawler Wed, November 25, 2026 at 12:11 AM EST 4 min read
+
+## Trading disclosure 
+
+The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for certain activity generated through this link. Prices displayed are informational. 
+
+SK hynix has seen a sharp reset in its share price this year, and the drop is pushing investors to ask whether the current valuation still lines up with what the company earns today and what it might reasonably earn over time. 
+
+- The stock is down about 33.3% year to ",,,,https://finance.yahoo.com/markets/stocks/articles/sk-hynix-nasdaqgs-skhy-stock-051115290.html,-1.0,1.0,2026-11-25
+KRX,000660.KS,exa_news,2026-11-23 22:36:12+00:00,"Why SK Hynix Stock Skyrocketed Today | The Motley Fool Why SK Hynix Stock Skyrocketed Today | The Motley Fool
+
+# Why SK Hynix Stock Skyrocketed Today
+
+The chipmaker rose after reports of interest from a high-stakes bidder.
+
+By Danny Vena, CPA – Nov 23, 2026 at 5:36PM EST
+
+## Key Points
+
+- Japan's SoftBank Group reportedly considered acquiring the chipmaker.
+- The proposed deal to acquire SK Hynix would have reportedly cost $1 trillion.
+- The deal met with considerable challenges. 
+- 10 stocks we like better than SK Hynix ›
+
+Shares of SK Hynix (SKHY -9.90%) charged sharply higher on Wednesday, jumping as much as 23.7%. By the time the market closed, the stock was still up 20%.
+
+The catalyst that sent the semiconductor specialist higher was news of a high-profile potential suitor.
+
+Image source: Getty Images.
+
+## Show me the money
+
+SK Hynix was ",,,,https://www.fool.com/investing/2026/11/23/why-sk-hynix-stock-skyrocketed-today/,0.0,1.0,2026-11-24
+KRX,035420.KS,exa_news,2026-11-24 22:01:02+00:00,"Naver to invest $743 mil. in logistics amid intensifying Coupang rivalry - The Korea Times Naver to invest $743 mil. in logistics amid intensifying Coupang rivalry - The Korea Times
+
+# Naver to invest $743 mil. in logistics amid intensifying Coupang rivalry
+
+Naver plans to invest nearly 1 trillion won by 2030 in logistics infrastructure to improve delivery competitiveness and challenge Coupang in Korea’s e-commerce market. The company will launch a logistics subsidiary this year, led by Chief Operating Officer Kim Bom-jun, while continuing to use outside partners to operate warehouses and make deliveries. Naver says its N Delivery service recorded 38 percent year-on-year growth in gross merchandise volume in the third quarter. The investment’s profitability will depend in part on securing enough delivery volume to cover fixed costs.
+
+## Key Facts
+
+- Naver CEO Choi Soo-yeon annou",,,,https://www.koreatimes.co.kr/business/companies/20261125/naver-to-invest-743-mil-in-logistics-amid-intensifying-coupang-rivalry,1.0,1.0,2026-11-25
+KRX,035420.KS,exa_news,2026-11-25 01:19:00+00:00,"[장중수급포착] NAVER, 외국인/기관 동시 순매수… 주가 +2.05% [장중수급포착] NAVER, 외국인/기관 동시 순매수… 주가 +2.05%
+
+# [장중수급포착] NAVER, 외국인/기관 동시 순매수… 주가 +2.05%
+
+기사입력 : 2026년11월25일 10:19 
+
+최종수정 : 2026년11월25일 10:35 
+
+| 증권사 (3곳) | 목표가(원) | 직전 대비 | 날짜 |
+| --- | --- | --- | --- |
+| 하나증권 | 400,000 | 유지 | 10.28 |
+| LS증권 | 293,000 | ▼ 10,000 | 10.01 |
+| 대신증권 | 320,000 | 유지 | 09.17 |
+
+[서울=뉴스핌] 로보뉴스 = 25일 10시 15분 현재 NAVER(035420)은 외국인과 기관이 각각 5.70 만 주, 1.00 만 주 순매수(잠정) 하면서 전일 대비 2.05% (현재가 159,300원) 상승하고 있다. [표] 외국인ㆍ기관 순매매량 (단위 만주) 
+
+ [표] 주요 기관별 순매매량 (단위 만주) 
+
+ ※ 사모펀드 등 일부 기관의 순매매량은 표시되지 않음 [그래프] 주체별 매매동향 (잠정) 
+
+ ※ 장중 매매동향은 잠정치이므로 실제 매매동향과 차이가 발생할수 있음 [표] 거래원 상위(10:15 기준) 
+
+ 서울시 영등포구 국제금융로 70, 미원빌딩 906호 편집국 : 02-761-4409 발행인 : 민병복 편집인 : 유근석 청소년보호책임자 : 김연순",,,,https://www.newspim.com/news/view/20261125000452,1.0,1.0,2026-11-25
+KRX,035420.KS,exa_news,2026-11-24 02:16:04+00:00,"It was found that the top 1% of stock investment returns bought Naver ... It was found that the top 1% of stock investment returns bought Naver and SK Square the most in earl.. - MK
+
+SHIN Yoonjae
+: shishis111@mk.co.kr
+
+Input : 
+: 2026-11-24 11:16:04
+
+Top 1% Investors in Yields Trend at 9:30 a.m. Net Buying Naver, SK Square, Daedeok Electronics 順 Samsung Electronics, LG Electronics, and SK Hynix ranked 1st to 3rd in net selling 
+
+ 사진 확대 
+
+ 
+
+It was found that the top 1% of stock investment returns bought Naver and SK Square the most in early trading on the 24th. On the other hand, Samsung Electronics and SK Hynix ranked at the top of net selling amid a 6-8% jump in stock prices.
+
+According to Mirae Asset Securities as of 9:30 a.m., Naver was the top net buyer of ultra-high earners. As of that time, Naver was trading at 156,900 won, up 4.60% from the previous trad",,,,https://www.mk.co.kr/en/stock/12216964,0.0,1.0,2026-11-24
+KRX,035420.KS,exa_news,2026-11-23 03:59:51+00:00,"Naver Plunges Over 8% to '140,000-Won Level'... Losses Deepen Amid Weak KOSPI and KOSDAQ | CBC Globe Naver Plunges Over 8% to '140,000-Won Level'... Losses Deepen Amid Weak KOSPI and KOSDAQ | CBC Globe
+
+# Naver Plunges Over 8% to '140,000-Won Level'... Losses Deepen Amid Weak KOSPI and KOSDAQ
+
+Naver (035420) fell more than 8% in the afternoon session on the 23rd, sinking to the 140,000-won level. Even as the KOSPI and KOSDAQ both declined, Naver's drop far exceeded the KOSPI index's decline. As of 12:39 p.m. on the 23rd, Naver was trading at 148,100 won, down 13,500 won (-8.35%) from the
+
+Oseong Kwon Staff Reporter
+
+Mon, 11/23/2026 3 min read
+
+CBC News
+
+Naver (035420) fell more than 8% in the afternoon session on the 23rd, sinking to the 140,000-won level. Even as the KOSPI and KOSDAQ both declined, Naver's drop far exceeded the KOSPI index's decline.
+
+As of 12:39 p.m. on the 23rd, Naver ",,,,https://cbcglobe.com/en/articles/2026/11/23/naver-plunges-over-8-to-140-000-won-level-losses-deepen-amid-4505ff8c,-1.0,1.0,2026-11-23
+KRX,035420.KS,exa_news,2026-11-25 00:21:24+00:00,"Naver stock lands major AI computing contract Naver stock lands major AI computing contract
+
+# Naver stock lands major AI computing contract
+
+ Published on 11/25/2026 at 01:21 | Editorial responsibility: Rafael Müller, Editor-in-Chief AD HOC NEWS 
+
+Naver stock has secured its first U.S. customer for a new AI infrastructure business. Commercial services are expected to begin next year.
+
+## AI infrastructure gains a customer
+
+- Third-quarter revenue reached 3.47 trillion won, while operating profit fell 20.9 percent year over year.
+- Commercial services are planned to begin in the first half of 2027 as Naver expands capacity with Brookfield and Nvidia.
+
+ 
+
+ 
+
+Naver, KR7035420009, Illustration mit AI erstellt.
+
+Naver signed a computing services contract with a U.S. AI inference company on November 12, 2026, securing the first customer fo",,,,https://www.ad-hoc-news.de/boerse/news/nebenwerte/naver-stock-lands-major-ai-computing-contract/70551066,1.0,1.0,2026-11-25
+KRX,035720.KS,exa_news,2026-11-23 10:52:00+00:00,"TPG seeks $1.1 billion from Kakao in arbitration over Kakao Mobility U.S. listing TPG seeks $1.1 billion from Kakao in arbitration over Kakao Mobility U.S. listing
+
+# TPG takes Kakao to arbitration for not listing its ride-hailing unit 
+
+ The private equity firm launched international arbitration Monday, alleging Kakao breached an agreement to pursue a U.S. listing for Kakao Mobility. 
+
+ News Team News Team 
+
+ Published November 23, 2026 - 7:52 p.m. 
+
+A Kakao T taxi drives near Seoul Station in Jung District, central Seoul, on Feb. 14, 2023. Kakao Mobility, which runs the Kakao T ride-hailing app, is at the center of TPG's arbitration claim against Kakao.
+
+NEWS1
+
+Kakao faces international arbitration over an allegation that it broke a shareholders’ agreement by failing to pursue a U.S. listing for its ride-hailing subsidiary, Kakao Mobility.
+
+Private equity firm TPG fil",,,,https://www.koreajoongangdaily.com/business/tpg-takes-kakao-to-arbitration-for-not-listing-its-ridehailing-unit/12986404,1.0,1.0,2026-11-23
+KRX,035720.KS,exa_news,2026-11-23 06:23:02+00:00,"Kakao drops plan to dissolve compliance committee Kakao drops plan to dissolve compliance committee - CHOSUNBIZ
+
+# Kakao drops plan to dissolve compliance committee
+
+Kakao keeps external watchdog amid concerns over reform backlash
+
+입력 2026.11.23. 15:23
+
+Kakao founder Kim Beom-su. /Courtesy of News1
+
+The Compliance and Trust Committee, an independent external watchdog launched by Kakao founder Kim Beom-su as Kim led a management overhaul, was at one point at risk of being dissolved, it has emerged. But ahead of the ruling in Kim's appeal, growing concerns about criticism that the overhaul was being rolled back and worsening public opinion prompted a change of direction in favor of keeping the committee.
+
+Kakao held intensive discussions about dissolving the committee and told its Chairperson, Kim So-young, that her contract could be termin",,,,https://biz.chosun.com/en/en-it/2026/11/23/LBTKHKO3MBE6PBN4ACZ6BPZZWA/,-1.0,1.0,2026-11-23
+KRX,035720.KS,exa_news,2026-11-21 08:41:52+00:00,"The dispute between Kakao and TPG will mark its first turning point in ... The dispute between Kakao and TPG will mark its first turning point in the M&A market next week... - MK
+
+PARK Jeone
+: greenpea94@mk.co.kr
+
+Input : 
+: 2026-11-21 17:41:52
+
+The dispute between Kakao and TPG will mark its first turning point in the M&A market next week. Kakao must submit an answer to TPG's arbitration application by the 30th. The sale of Central Group affiliates will also accelerate. Megabox Central has to submit a rehabilitation plan on the 1st of next month, and JTBC is set to make a preliminary bid on the 4th of the same month.
+
+ 사진 확대 
+
+ Inside the Kakao Mobility office.Kakao Mobility 
+
+According to the industry, Kakao must submit a response to TPG's arbitration application to the Hong Kong International Arbitration Center (HKIAC) by the end of this month. The two sides h",,,,https://www.mk.co.kr/en/stock/12215299,0.0,1.0,2026-11-21
+KRX,035720.KS,exa_news,2026-11-24 23:20:08+00:00,"Kakao stock faces TPG arbitration over Kakao Mobility listing Kakao stock faces TPG arbitration over Kakao Mobility listing
+
+# Kakao stock faces TPG arbitration over Kakao Mobility listing
+
+ Published on 11/25/2026 at 00:20 | Editorial responsibility: Rafael Müller, Editor-in-Chief AD HOC NEWS 
+
+Kakao stock faces a legal challenge over a failed US listing for Kakao Mobility. The company rejects TPG's claims and plans to defend its position.
+
+## Kakao faces a new legal challenge
+
+- TPG alleges that Kakao breached agreements linked to a planned US listing of Kakao Mobility.
+- Kakao says it rejects the claims and will defend its position in the arbitration.
+- The ICC proceedings are seated in Hong Kong, with Kakao's initial response due by December 10.
+
+ 
+
+ 
+
+Kakao, KR7035720002, Illustration mit AI erstellt.
+
+Kakao disclosed on Monday, November 23, tha",,,,https://www.ad-hoc-news.de/boerse/news/nebenwerte/kakao-stock-faces-tpg-arbitration-over-kakao-mobility-listing/70550993,0.0,1.0,2026-11-25
+KRX,035720.KS,exa_news,2026-11-22 20:30:00+00:00,"Kakao raises hopes for AI investment push after shedding 3-year legal burden - MoneyToday Kakao raises hopes for AI investment push after shedding 3-year legal burden - MoneyToday
+
+# Kakao raises hopes for AI investment push after shedding 3-year legal burden
+
+By KIM PYOUNG HWA, LEE JEONG HYEON
+
+ Updated Nov 23, 2026, 3:25 p.m. KST Published Nov 23, 2026, 5:30 a.m. KST 
+
+Impact of founder Kim Beom-soo’s legal risks on Kakao / Graphic by Yoon Sun-jung
+
+With Kakao founder Kim Beom-soo receiving an acquittal in the appellate trial over charges of manipulating the stock price of SM Entertainment, the company has gained greater room to focus on growth. 
+
+During more than three years of ongoing investigations and trials, acquisitions of overseas companies by affiliates fell through, and entry into new business areas was delayed. 
+
+As Kakao prepares for a human division next year, fou",,,,https://www.mt.co.kr/en/tech/2026/11/23/2026112213112098676,1.0,1.0,2026-11-23
+KRX,005380.KS,exa_news,2026-11-25 00:03:29+00:00,"SK Securities Cuts Hyundai Motor, Kia Target Prices by About 40% - Seoul Economic Daily SK Securities Cuts Hyundai Motor, Kia Target Prices by About 40% - Seoul Economic Daily
+
+# SK Securities Cuts Hyundai Motor, Kia Target Prices by About 40%
+
+Hyundai Motor Lowered to 370,000 Won From 630,000; Kia to 120,000 From 200,000 Hyundai Motor's 2027 Operating Profit Seen Rising 7.0% on New Models, Normalized Output Kia's Operating Profit Seen Falling 5.3% on European Competition, Incentive Costs
+
+Published 2026.11.25. 09:03:29
+
+By Byun Soo-yeon diver@sedaily.com
+
+Hyundai Motor Group's Yangjae headquarters. Hyundai Motor
+
+SK Securities (001510) on the 25th cut its target prices for Hyundai Motor (005380) and Kia (000270) by about 40% each. Hyundai Motor's target was lowered 41.3% to 370,000 won from 630,000 won, and Kia's fell 40.0% to 120,000 won from 200,000 won.
+
+The brokerage sai",,,,https://en.sedaily.com/market/2026/11/25/sk-securities-cuts-hyundai-motor-kia-target-prices-by-about,-1.0,1.0,2026-11-25
+KRX,005380.KS,exa_news,2026-11-24 00:00:00+00:00,"Hyundai Motor shares plunge 67% from yearly peak - 매일경제 영문뉴스 펄스(Pulse) Hyundai Motor shares plunge 67% from yearly peak - 매일경제 영문뉴스 펄스(Pulse)
+
+## Hyundai Motor shares plunge 67% from yearly peak
+
+ 2026.11.24 11:38:28 
+
+### Hyundai Motor shares plunge 67% from yearly peak
+
+ 사진 확대 
+
+ BYD vehicles awaiting export are lined up at a terminal of Suzhou Port in China on November 5. (AFP/Yonhap) 
+
+Hyundai Motor Co. shares have plunged 67 percent from their peak earlier this year as fading enthusiasm for its robotics business and intensifying competition from Chinese automakers weigh on investor sentiment.
+
+Shares of the automaker fell 3.3 percent to close at 246,500 won ($183.54) on Monday, roughly one-third of their June 1 closing high of 750,000 won. The decline has erased gains fueled by excitement over Atlas, a humanoid robot unveiled earlier this year by Boston ",,,,https://pulse.mk.co.kr/news/english/12216982,-0.7142857142857143,1.0,2026-11-24
+KRX,005380.KS,exa_news,2026-11-24 21:45:00+00:00,"[This Week's Stock to Watch] Hyundai Motor at a Third of Its Peak in Six Months... What Will It Take to Rev Up Again? - The Asia Business Daily [This Week's Stock to Watch] Hyundai Motor at a Third of Its Peak in Six Months... What Will It Take to Rev Up Again? - The Asia Business Daily
+# [This Week's Stock to Watch] Hyundai Motor at a Third of Its Peak in Six Months... What Will It Take to Rev Up Again?
+by *Lee Minwoo*
+Published 25 Nov.2026 06:45(KST)
+## Third-Quarter Sales Down 11%
+Operating Margin of 4.9%-5.2% Next Year
+New Models Next Year, Robotics Beyond That
+Editor's Note Retail investors dreaming of successful investments, how much do you know about the stocks you buy with your own money? In an online environment awash with all kinds of unfiltered information, The Asia Business Daily aims to be your eyes, ears, hands and feet, bringing you accurate information about companies. Each week, we focus on companies that rank amo",,,,https://view.asiae.co.kr/en/article/stock-disclosure/2026112414060268650,1.0,1.0,2026-11-25
+KRX,005380.KS,exa_news,2026-11-24 00:03:46+00:00,"Daol Investment & Securities lowered its target stock price from 640,000 won to 460,000 won on t.. - MK Daol Investment & Securities lowered its target stock price from 640,000 won to 460,000 won on t.. - MK
+
+Minjoo Kim
+: kim.minjoo@mk.co.kr
+
+Input : 
+: 2026-11-24 09:03:46
+
+ 사진 확대 
+
+ Hyundai Motor Company's Yangjae building. [Hyundai Motor Company] 
+
+Daol Investment & Securities lowered its target stock price from 640,000 won to 460,000 won on the 23rd to reflect uncertainties surrounding the exchange rate and the domestic and European electric vehicle (EV) market share.
+
+However, the investment opinion remained 'buy'. Analysts say that the low-price buying strategy is effective considering that the current stock price already fully reflects uncertainties in the domestic market and that the government is pushing to introduce tax credits for electric vehicle production this month.
+
+Daol Inves",,,,https://www.mk.co.kr/en/stock/12216772,1.0,1.0,2026-11-24
+KRX,005380.KS,exa_news,2026-11-23 00:44:10+00:00,"Hyundai Motor Shares Drop Nearly 4% Amid Concerns Over Earnings Decline | Aju Press Hyundai Motor Shares Drop Nearly 4% Amid Concerns Over Earnings Decline | Aju Press
+
+# Hyundai Motor Shares Drop Nearly 4% Amid Concerns Over Earnings Decline
+
+by Younsun Choi
+
+ Posted : November 23, 2026, 09:44 Updated : November 23, 2026, 09:44 
+
+ Hyundai Motor shares are showing weakness, dropping nearly 4% in early trading. According to the Korea Exchange, as of 9:38 a.m. on the 23rd, Hyundai Motor is trading at 245,000 won (KRW), down 3.92% (10,000 won) from the previous trading day. Hyundai has continued its downward trend, following a decline of around 5% on the 20th. This decline is interpreted as a burden on investor sentiment due to recent uncertainties in earnings stemming from a slowdown in global automotive demand and production disruptions. Hyundai's revenue for the third qua",,,,https://www.ajupress.com/view/20261123094470094,-1.0,1.0,2026-11-23
