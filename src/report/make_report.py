@@ -74,4 +74,7 @@ if met_p.exists():
 
 html.append("<p><b>Limits:</b> about 10 days of social data; Naver posts cover only the latest day; "
             "LIHKG has no views, reposts or follower counts; sentiment is a keyword baseline, not a trained model; "
-            "forecasts are illustrative, not trading
+            "forecasts are illustrative, not trading signals.</p></body></html>")
+Path("reports").mkdir(exist_ok=True)
+Path("reports/report.html").write_text("\n".join(html), encoding="utf-8")
+print("Saved -> reports/report.html")
