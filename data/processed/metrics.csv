@@ -1,5 +1,5 @@
 model,MAPE_pct,RMSE_ret,directional_acc,n
 baseline: always up,2.9928,3.951,0.3533,150
 baseline: tomorrow = today,2.9896,3.9492,,150
-ridge: price + sentiment,3.0406,4.0897,0.5867,150
+ridge: price + sentiment,2.926,3.921,0.5867,150
 ridge: price only,2.9371,3.9376,0.5733,150

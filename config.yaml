@@ -17,7 +17,7 @@ exchanges:
     telegram_channels: ["chinadagudong"]
     sources:
       lihkg:
-        enabled: true
+        enabled: false
         actor_id: claude_code_reviewer/lihkg-scraper-en
         per_ticker: true
         input:
@@ -45,8 +45,10 @@ exchanges:
     telegram_channels: ["corevalue", "financialnewssummary"]
     sources:
       naver_board:
-        enabled: false          # switch to true after the Naver test works
+        enabled: true         
         actor_id: hgservices/naver-stock-discussion-scraper
         per_ticker: true
         input:
-          stocks: ["{code}"]    # confirm this field name in the Input tab
+          stocks: ["{code}"]
+          maxResults: 50
+          dateFrom: "2026-11-15"

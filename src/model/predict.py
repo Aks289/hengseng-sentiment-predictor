@@ -6,7 +6,7 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 
 PRICE_F = ["ret_1", "ret_5", "vol_5"]
-ALL_F = PRICE_F + ["sentiment", "mentions"]
+ALL_F = PRICE_F + ["sentiment"]
 TEST_DAYS = 15
 
 

@@ -15,7 +15,7 @@ def latest_files(pattern):
     """Keep only the newest file per (exchange, source, label)."""
     best = {}
     for f in sorted(glob.glob(str(RAW / pattern))):
-        key = "_".join(Path(f).stem.split("_")[:3])
+        key = "_".join(Path(f).stem.split("_")[:-1])
         best[key] = f
     return list(best.values())
 
@@ -57,17 +57,14 @@ def main():
                     rows.append([exchange, t, "telegram", it.get("timestamp_utc"), it.get("text"),
                                  None, None, it.get("views"), f"https://t.me/{it.get('post_id')}"])
 
-        # Naver discussion (field names are guesses; adjust once you see real output)
+                       # Naver discussion (fields: writtenAt, title, text, views, likes, url)
         for f in latest_files(f"{exchange}_naver_board_*.json"):
-            ticker = Path(f).stem.split("_")[3] if len(Path(f).stem.split("_")) > 3 else None
+            parts = Path(f).stem.split("_")
+            ticker = parts[3] if len(parts) > 3 else None
             for it in json.load(open(f, encoding="utf-8"))["items"]:
-                text = " ".join(filter(None, [first(it, ["title"]), first(it, ["text", "content", "body"])]))
-                rows.append([exchange, ticker, "naver_board",
-                             first(it, ["createdAt", "time", "date", "created_at", "postedAt"]), text,
-                             first(it, ["likes", "like_count", "recommend"]),
-                             first(it, ["comments", "reply_count"]),
-                             first(it, ["views", "view_count"]), first(it, ["url", "link"])])
-
+                text = " ".join(filter(None, [it.get("title"), it.get("text")]))
+                rows.append([exchange, ticker, "naver_board", it.get("writtenAt"), text,
+                             it.get("likes"), None, it.get("views"), it.get("url")])
     # Exa news
     news_path = Path("data/processed/news.csv")
     if news_path.exists():
@@ -76,7 +73,7 @@ def main():
             rows.append([r.exchange, r.ticker, "exa_news", r.published_utc, text, None, None, None, r.url])
 
     df = pd.DataFrame(rows, columns=COLS)
-    df["timestamp_utc"] = pd.to_datetime(df["timestamp_utc"], utc=True, errors="coerce")
+    df["timestamp_utc"] = df["timestamp_utc"].apply(lambda x: pd.to_datetime(x, utc=True, errors="coerce"))
     df = df.dropna(subset=["text", "ticker"])
     df = df[df["text"].str.strip() != ""].drop_duplicates(subset=["ticker", "source", "url", "text"])
     OUT.parent.mkdir(parents=True, exist_ok=True)
