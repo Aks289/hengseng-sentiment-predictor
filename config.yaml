@@ -8,6 +8,26 @@ exchanges:
       "9988.HK": Alibaba
       "3690.HK": Meituan
       "1810.HK": Xiaomi
+    aliases:
+      "0700.HK": ["騰訊", "0700", "텐센트"]
+      "0005.HK": ["滙豐", "匯豐", "HSBC", "HSBC홀딩스"]
+      "9988.HK": ["阿里巴巴", "9988", "알리바바"]
+      "3690.HK": ["美團", "3690", "메이퇀", "메이투안"]
+      "1810.HK": ["小米", "1810", "샤오미"]
+    telegram_channels: ["chinadagudong"]
+    sources:
+      lihkg:
+        enabled: true
+        actor_id: claude_code_reviewer/lihkg-scraper-en
+        per_ticker: true
+        input:
+          mode: search
+          keywords: "{aliases}"
+          order: desc_reply_time
+          dateFrom: 10d
+          maxItems: 15
+          aiLabels: false
+          onlyNew: false
   KRX:
     timezone: Asia/Seoul
     tickers:
@@ -16,3 +36,17 @@ exchanges:
       "035420.KS": Naver
       "035720.KS": Kakao
       "005380.KS": Hyundai Motor
+    aliases:
+      "005930.KS": ["삼성전자", "삼전", "005930"]
+      "000660.KS": ["SK하이닉스", "하이닉스", "000660"]
+      "035420.KS": ["네이버", "035420"]
+      "035720.KS": ["카카오", "035720"]
+      "005380.KS": ["현대차", "현대자동차", "005380"]
+    telegram_channels: ["corevalue", "financialnewssummary"]
+    sources:
+      naver_board:
+        enabled: false          # switch to true after the Naver test works
+        actor_id: hgservices/naver-stock-discussion-scraper
+        per_ticker: true
+        input:
+          stocks: ["{code}"]    # confirm this field name in the Input tab

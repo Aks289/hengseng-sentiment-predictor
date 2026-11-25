@@ -1,11 +1,11 @@
 exchange,ticker,asset_name,current_price,mentions,sources_used,sentiment_score,direction,position,support_20d,resistance_20d,pivot,S1,R1
 HKEX,0005.HK,HSBC Holdings,130.1,13,2,-0.058,neutral,flat / wait,126.1,143.3,130.03,128.77,131.37
-HKEX,1810.HK,Xiaomi,27.48,9,2,-0.023,neutral,flat / wait,25.46,31.74,27.67,26.67,28.47
-HKEX,0700.HK,Tencent,341.6,9,2,-0.245,bearish,short bias,333.0,431.2,343.13,338.27,346.47
-HKEX,9988.HK,Alibaba,82.85,7,2,0.068,neutral,flat / wait,79.5,109.4,83.37,81.88,84.33
+HKEX,9988.HK,Alibaba,82.85,11,3,-0.029,neutral,flat / wait,79.5,109.4,83.37,81.88,84.33
+HKEX,0700.HK,Tencent,341.6,11,3,-0.107,bearish,short bias,333.0,431.2,343.13,338.27,346.47
+HKEX,1810.HK,Xiaomi,27.48,10,3,0.169,bullish,flat / wait,25.46,31.74,27.67,26.67,28.47
 HKEX,3690.HK,Meituan,63.0,6,2,0.396,bullish,flat / wait,62.7,83.0,63.98,61.72,65.27
-KRX,035420.KS,Naver,161200.0,5,1,0.4,bullish,flat / wait,144900.0,197900.0,158066.67,154833.33,164433.33
+KRX,035420.KS,Naver,161200.0,53,2,-0.008,neutral,flat / wait,144900.0,197900.0,158066.67,154833.33,164433.33
+KRX,005930.KS,Samsung Electronics,172500.0,31,2,0.131,bullish,flat / wait,170600.0,249000.0,174333.33,168766.67,178066.67
+KRX,000660.KS,SK Hynix,1047000.0,27,2,-0.24,bearish,short bias,1041000.0,1587000.0,1061666.67,1026333.33,1082333.33
+KRX,005380.KS,Hyundai Motor,271000.0,15,2,-0.016,neutral,flat / wait,240500.0,309500.0,270333.33,266166.67,275166.67
 KRX,035720.KS,Kakao,31000.0,5,1,0.2,bullish,long bias,28300.0,33300.0,30500.0,29750.0,31750.0
-KRX,005930.KS,Samsung Electronics,172500.0,5,1,-0.078,neutral,flat / wait,170600.0,249000.0,174333.33,168766.67,178066.67
-KRX,005380.KS,Hyundai Motor,271000.0,5,1,-0.143,bearish,short bias,240500.0,309500.0,270333.33,266166.67,275166.67
-KRX,000660.KS,SK Hynix,1047000.0,5,1,-0.2,bearish,short bias,1041000.0,1587000.0,1061666.67,1026333.33,1082333.33
