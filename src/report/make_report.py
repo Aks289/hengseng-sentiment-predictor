@@ -18,9 +18,13 @@ html = ["<html><head><meta charset='utf-8'><title>HengSeng Sentiment Report</tit
         "<p>Tickers ranked by social mentions, then sentiment. Sentiment is a word-list baseline in [-1, 1]; "
         "position is inferred from sentiment plus the 20-day price trend.</p>"]
 
+_first = [True]
+
 
 def add(fig):
-    html.append(fig.to_html(full_html=False, include_plotlyjs="cdn" if len(html) == 3 else False))
+    # Load the Plotly library with the first chart only, so every chart can render
+    html.append(fig.to_html(full_html=False, include_plotlyjs="cdn" if _first[0] else False))
+    _first[0] = False
 
 
 for ex, s in summ.groupby("exchange"):
@@ -59,7 +63,7 @@ for ex, s in summ.groupby("exchange"):
 
 if pred_p.exists():
     pr = pd.read_csv(pred_p)
-    html.append("<h2>n+1 price prediction</h2>")
+    html.append("<h2>n+1 price prediction (forecast for the next trading day after the date shown)</h2>")
     add(go.Figure(go.Table(header=dict(values=list(pr.columns), fill_color="#eceff1"),
                            cells=dict(values=[pr[c] for c in pr.columns]))).update_layout(height=420))
 if met_p.exists():
@@ -68,8 +72,6 @@ if met_p.exists():
     add(go.Figure(go.Table(header=dict(values=list(m.columns), fill_color="#eceff1"),
                            cells=dict(values=[m[c] for c in m.columns]))).update_layout(height=260))
 
-html.append("<p><b>Limits:</b> about 10 days of social data; LIHKG has no views, reposts or follower counts; "
-            "sentiment is a keyword baseline, not a trained model.</p></body></html>")
-Path("reports").mkdir(exist_ok=True)
-Path("reports/report.html").write_text("\n".join(html), encoding="utf-8")
-print("Saved -> reports/report.html")
+html.append("<p><b>Limits:</b> about 10 days of social data; Naver posts cover only the latest day; "
+            "LIHKG has no views, reposts or follower counts; sentiment is a keyword baseline, not a trained model; "
+            "forecasts are illustrative, not trading
