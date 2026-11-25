@@ -1,0 +1,18 @@
+lookback_days: 10
+exchanges:
+  HKEX:
+    timezone: Asia/Hong_Kong
+    tickers:
+      "0700.HK": Tencent
+      "0005.HK": HSBC Holdings
+      "9988.HK": Alibaba
+      "3690.HK": Meituan
+      "1810.HK": Xiaomi
+  KRX:
+    timezone: Asia/Seoul
+    tickers:
+      "005930.KS": Samsung Electronics
+      "000660.KS": SK Hynix
+      "035420.KS": Naver
+      "035720.KS": Kakao
+      "005380.KS": Hyundai Motor
